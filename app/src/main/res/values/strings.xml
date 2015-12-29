@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecycleViewDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="descr_image">Images</string>
+    <string name="internet_connection">Check internet connection</string>
+    <string name="label_examples">Examples</string>
+    <string name="staggered_grid_layout">Staggered Grid Layout Manager</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+</resources>
